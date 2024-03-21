@@ -2251,5 +2251,14 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3377aCA4c0BFD021be6bd762b5f594975e77f9CF/logo.png"
     }
   ],
+    "chainId": 43114,
+      "address": "0x00ABF353eA78444E1a9A2cBc9114bE12C53fA3BC",
+      "decimals": 18,
+      "name": "Lueegi D'ohnono Demeeoh",
+      "symbol": "LUEEGI",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x00ABF353eA78444E1a9A2cBc9114bE12C53fA3BC/logo.png"
+    }
+  ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
